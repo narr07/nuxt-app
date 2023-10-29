@@ -11,6 +11,8 @@
     ogTitle: page.title,
     description: page.description,
     ogDescription: page.description,
+    twitterDescription: page.description,
+    twitterTitle: page.title,
   });
   defineOgImage({
     component: "Example",
